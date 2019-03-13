@@ -6,7 +6,7 @@ this is yet another script to display image files in the terminal.
 It features two ways of fitting the image, either filling the console distorting the image
 or finding the best fit without distorting it - leaving blank space around it if needed.
 
-![Example screenshot](HEADER.png?raw=true "example screenshot")
+![Example screenshot](Header.png?raw=true "example screenshot")
 
 ### Syntax:
 
